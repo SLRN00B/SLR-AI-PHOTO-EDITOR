@@ -1,0 +1,5 @@
+{
+  "name": "SLR PHOTO EDITOR",
+  "description": "An intuitive photo editor powered by the Gemini Flash Image model. Upload an image, provide a text prompt for your desired edits, and watch the AI transform your photo in seconds.",
+  "requestFramePermissions": []
+}
